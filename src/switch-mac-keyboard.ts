@@ -13,5 +13,5 @@ export default function command() {
         }
         console.log(`Output: ${stdout}`);
     });
-    showHUD(`✅ Mac keyboard set`);
+    showHUD(`✅ Mac keyboard`);
 }

@@ -22,5 +22,5 @@ export default function command() {
     }
     console.log(`Output: ${stdout}`);
   });
-  showHUD(`✅ Window keyboard set`);
+  showHUD(`✅ Window keyboard`);
 }
