@@ -13,7 +13,7 @@
     {
       "name": "switch-mac-keyboard",
       "title": "switch-mac-keyboard",
-      "description": "",
+      "description": "Allow to switch alt and window keys",
       "mode": "no-view"    },
     {
       "name": "switch-window-keyboard",
