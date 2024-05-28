@@ -3,7 +3,7 @@
   "name": "keyboard-win-mac-switch",
   "title": "Keyboard Win Mac switch",
   "description": "This extension allow you to switch alt and window keys",
-  "icon": "command-icon.png",
+  "icon": "keyboard-icon.svg",
   "author": "fab_uleuh",
   "categories": [
     "System"
